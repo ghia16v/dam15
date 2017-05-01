@@ -7,7 +7,7 @@ PrimeraClase(){
 	int edad=31;
 	float sueldo = 100000000;
 	};
-
+int deudas=100;
 
 
 	public static void main(String[] args) {
