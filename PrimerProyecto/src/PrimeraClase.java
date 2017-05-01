@@ -6,8 +6,9 @@ PrimeraClase(){
 	int telefono= 94448844;
 	int edad=31;
 	float sueldo = 100000000;
-	};
-int deudas=100;
+	float deudas = 100000;
+};
+
 
 
 	public static void main(String[] args) {
