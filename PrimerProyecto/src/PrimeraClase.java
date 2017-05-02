@@ -7,8 +7,8 @@ PrimeraClase(){
 	int edad=31;
 	float sueldo = 100000000;
 	float deudas = 100000;
+System.out.println("En esta rama intentaremos perfeccionar ese pantallazo azul de la muerte");
 };
-
 
 
 	public static void main(String[] args) {
